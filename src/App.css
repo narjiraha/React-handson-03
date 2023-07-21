@@ -1,0 +1,119 @@
+.App {
+  text-align: center;
+}
+
+.body {
+  background-image: linear-gradient(pink, white);
+  height: 100vh;
+}
+
+.name {
+  padding: 20px;
+  width: 250px;
+  margin-bottom: 10px;
+  border-radius: 30px;
+  border: 2px solid black;
+  background-color: rgb(151, 204, 204);
+}
+
+.department {
+  padding: 20px;
+  width: 250px;
+  margin-bottom: 10px;
+  border-radius: 30px;
+  border: 2px solid black;
+  background-color: rgb(151, 204, 204);
+}
+
+.rating {
+  padding: 20px;
+  width: 250px;
+  margin-bottom: 10px;
+  border-radius: 30px;
+  border: 2px solid black;
+  background-color: rgb(151, 204, 204);
+}
+
+
+.submit {
+  padding: 20px;
+  width: 250px;
+  border-radius: 30px;
+  margin-bottom: 10px;
+  border: 2px solid black;
+  background-color: rgb(151, 204, 204);
+  cursor: pointer;
+}
+
+.submit:hover {
+  background-color: cyan;
+}
+
+.formdata {
+  display: flex;
+  /* justify-content: space-evenly; */
+  flex-wrap: wrap;
+  background-color: rgb(151, 204, 204);
+  border: 2px solid black;
+  padding: 20px;
+  margin-top: 20px;
+  border-radius: 4px;
+  gap: 20px;
+}
+
+.submissionData {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 40%;
+  height: 80px;
+  background-color: pink;
+  border: 2px solid black;
+  border-radius: 50px;
+  padding: 10px;
+  margin-top: 10px;
+}
+
+/* formdata */
+.conainer {
+  display: flex;
+  padding: 20px;
+  border-radius: 30px;
+  margin-bottom: 10px;
+  border: 2px solid black;
+  justify-content: center;
+  justify-content: space-evenly;
+  background-color: rgb(151, 204, 204);
+}
+
+.dataContainer {
+  display: flex;
+  margin: 20px;
+  padding: 20px;
+  /* width: 200px;
+  height: 100px; */
+}
+
+.data {
+  margin: 20px;
+  padding: 20px;
+  border: 2px solid black;
+  width: 40%;
+  height: 80px;
+  background-color: pink;
+  border-radius: 50px;
+}
+
+.submit {
+  padding: 20px;
+  width: 250px;
+  border-radius: 30px;
+  margin-bottom: 10px;
+  border: 2px solid black;
+  background-color: rgb(151, 204, 204);
+  cursor: pointer;
+}
+
+.submit:hover {
+  background-color: cyan;
+}
